@@ -7,6 +7,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 导出设计稿中的任意部分到 CodeWave，秒级生成视图界面，搭配 CodeWave 强大的编辑器能力完成后续全链路开发部署。
 
+## 安装
+
+下载 [codewave.sketchplugin.zip](https://cdn.jsdelivr.net/gh/netease-lcap/sketch-plugin/codewave.sketchplugin.zip)，解压，双击安装。
+
 ## 版本历史
 
 ### 1.0.5 - 3/12/2024
