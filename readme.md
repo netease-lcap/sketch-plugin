@@ -1,0 +1,14 @@
+# CodeWave Sketch Plugin
+
+## 简介
+
+![](https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57-871b-9f554a678281)
+
+
+导出设计稿中的任意部分到 CodeWave，秒级生成视图界面，搭配 CodeWave 强大的编辑器能力完成后续全链路开发部署。
+
+## 版本历史
+
+### 1.0.5 - 3/12/2024
+计算带 shadow 效果的图片的 rendered bound
+
