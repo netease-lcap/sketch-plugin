@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.6 - 3/12/2024
+修复 zip 安装包解压为目录的问题
+
+
 ### 1.0.5 - 3/12/2024
 计算带 shadow 效果的图片的 rendered bound
 
