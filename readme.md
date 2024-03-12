@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.7 - 3/12/2024
+设计稿设置图片导出时弹出提示
+
+
 ### 1.0.6 - 3/12/2024
 修复 zip 安装包解压为目录的问题
 
