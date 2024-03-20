@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.9 - 3/20/2024
+多选导出提示
+
+
 ### 1.0.8 - 3/20/2024
 自动高度文本不应该溢出隐藏
 
