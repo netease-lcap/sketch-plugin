@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.10 - 5/24/2024
+兼容750设计稿
+
+
 ### 1.0.9 - 3/20/2024
 多选导出提示
 
