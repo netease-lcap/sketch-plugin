@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.12 - 6/3/2024
+修复id递增导致图片找不到的问题
+
+
 ### 1.0.11 - 5/28/2024
 修复组件id重复问题
 
