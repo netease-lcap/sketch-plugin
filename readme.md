@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.14 - 6/19/2024
+支持 outline
+
+
 ### 1.0.13 - 6/13/2024
 修复圆角个数兼容问题
 
