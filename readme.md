@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.16 - 6/25/2024
+1、蒙版溢出隐藏。2、750设计稿NaN问题修复。
+
+
 ### 1.0.15 - 6/24/2024
 支持 outline-offset
 
