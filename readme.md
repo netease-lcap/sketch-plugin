@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.18 - 7/5/2024
+导出图片支持忽略阴影
+
+
 ### 1.0.17 - 7/4/2024
 移除 originalId
 
