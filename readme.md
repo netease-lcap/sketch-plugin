@@ -9,7 +9,7 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 安装
 
-下载 [codewave.sketchplugin.zip](https://cdn.jsdelivr.net/gh/netease-lcap/sketch-plugin/codewave.sketchplugin.zip)，解压，双击安装。
+下载 [codewave.sketchplugin.zip](https://github.com/netease-lcap/sketch-plugin/raw/main/codewave.sketchplugin.zip)，解压，双击安装。
 
 ## 版本历史
 
