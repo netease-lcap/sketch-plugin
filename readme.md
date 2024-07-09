@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.22 - 7/9/2024
+修复路径旋转问题
+
+
 ### 1.0.21 - 7/9/2024
 仅在旋转矩形中手动计算 rendered bound
 
