@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.26 - 7/12/2024
+所有文本形态都要保留换行符
+
+
 ### 1.0.25 - 7/12/2024
 路径旋转优化
 
