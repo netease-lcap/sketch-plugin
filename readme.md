@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.25 - 7/12/2024
+路径旋转优化
+
+
 ### 1.0.24 - 7/9/2024
 图标 SVG 判定策略优化
 
