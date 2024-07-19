@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.30 - 7/19/2024
+缓存tag提升性能
+
+
 ### 1.0.29 - 7/18/2024
 支持四周边框
 
