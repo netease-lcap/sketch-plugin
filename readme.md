@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.34 - 8/20/2024
+使用 affectedLayers
+
+
 ### 1.0.33 - 8/12/2024
 导出根节点时应该移除周围透明像素
 
