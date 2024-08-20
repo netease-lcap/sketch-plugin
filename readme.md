@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.35 - 8/20/2024
+阴影不再切到图里
+
+
 ### 1.0.34 - 8/20/2024
 使用 affectedLayers
 
