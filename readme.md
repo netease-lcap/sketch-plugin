@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.36 - 8/21/2024
+阴影依旧切图但考虑翻转
+
+
 ### 1.0.35 - 8/20/2024
 阴影不再切到图里
 
