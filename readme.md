@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.42 - 9/3/2024
+检查包含大量空格的文本节点
+
+
 ### 1.0.41 - 9/2/2024
 文本元素部分重叠检查
 
