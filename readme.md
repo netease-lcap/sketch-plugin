@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.46 - 9/14/2024
+兼容sketch获取parent报错的情况
+
+
 ### 1.0.45 - 9/5/2024
 移除设计稿检查
 
