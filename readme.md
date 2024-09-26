@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.48 - 9/26/2024
+蒙版必须包含兄弟节点才切图
+
+
 ### 1.0.47 - 9/14/2024
 sketch symbol detach before export
 
