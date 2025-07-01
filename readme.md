@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.50 - 2025/7/1
+更新Webview默认地址为外部SaaS地址
+
+
 ### 1.0.49 - 6/27/2025
 通过 Webview 进行设计稿检测和 AI 识别
 
