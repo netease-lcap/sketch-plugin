@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.52 - 2025/8/26
+优化sketch通信oom问题，webview接入ep组件库
+
+
 ### 1.0.51 - 2025/7/7
 修复Webview默认地址以/结尾
 
