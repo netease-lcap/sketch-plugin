@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.53 - 2025/12/23
+将配置服务器地址功能从d2c-webview服务中解耦，以满足私有化环境网络隔离需求
+
+
 ### 1.0.52 - 2025/8/26
 优化sketch通信oom问题，webview接入ep组件库
 
