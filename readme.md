@@ -13,6 +13,10 @@ https://github.com/netease-lcap/sketch-plugin/assets/11524612/6a7ee8c3-cd92-4a57
 
 ## 版本历史
 
+### 1.0.54 - 4/22/2026
+fix: 新版本里 group 也有背景色
+
+
 ### 1.0.53 - 2025/12/23
 将配置服务器地址功能从d2c-webview服务中解耦，以满足私有化环境网络隔离需求
 
